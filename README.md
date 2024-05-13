@@ -1,3 +1,4 @@
 # prabh_demo
 This is my first git repository.
-author- prabhleen kaur
+<br>
+Author- Prabhleen Kaur
